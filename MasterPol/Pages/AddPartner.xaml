@@ -9,6 +9,40 @@
       Title="AddPartner">
 
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200">
+            <TextBlock Text="Наименование:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="ФИО Директора:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Тип:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <ComboBox></ComboBox>
+            <TextBlock Text="Рейтинг:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Телефон:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Email:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <Button Content="Назад" Margin="0,50" Background="#67BA80" FontFamily="Segoe UI"></Button>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Width="200">
+            <TextBlock Text="Индекс:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Область:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Город:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Улица:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <TextBlock Text="Дом:" FontFamily="Segoe UI" Margin="0,5"></TextBlock>
+            <TextBox></TextBox>
+            <Button Content="Добавить" Margin="0,75" Background="#67BA80" FontFamily="Segoe UI"></Button>
+        </StackPanel>
+
     </Grid>
 </Page>

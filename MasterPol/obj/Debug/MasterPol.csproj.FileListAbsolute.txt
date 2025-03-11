@@ -13,3 +13,7 @@ C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\MasterPol
 C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\MasterPol.csproj.CoreCompileInputs.cache
 C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\MasterPol.exe
 C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\MasterPol.pdb
+C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\Pages\AddPartner.g.cs
+C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\Pages\ListView.g.cs
+C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\comcuru\Desktop\KT7_2_Ivanov_Maxim_ISP431\MasterPol\obj\Debug\MasterPol_Content.g.cs

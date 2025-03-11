@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\pages\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|solutionrelative:pages\\addpartner.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|c:\\users\\comcuru\\desktop\\kt7_2_ivanov_maxim_isp431\\masterpol\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|solutionrelative:classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\pages\\listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{445D82EA-8D98-41D3-B6D9-46AB8332442D}|MasterPol.csproj|solutionrelative:pages\\listview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:24:49.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddPartner.xaml",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\Pages\\AddPartner.xaml",
+              "RelativeDocumentMoniker": "Pages\\AddPartner.xaml",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\Pages\\AddPartner.xaml",
+              "RelativeToolTip": "Pages\\AddPartner.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T12:15:20.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListView.xaml",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\Pages\\ListView.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListView.xaml",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\Pages\\ListView.xaml",
+              "RelativeToolTip": "Pages\\ListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T12:15:17.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "manager.cs",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\classes\\manager.cs",
+              "RelativeDocumentMoniker": "classes\\manager.cs",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\classes\\manager.cs",
+              "RelativeToolTip": "classes\\manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:14:34.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T12:12:35.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\comcuru\\Desktop\\KT7_2_Ivanov_Maxim_ISP431\\MasterPol\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-11T12:07:56.165Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

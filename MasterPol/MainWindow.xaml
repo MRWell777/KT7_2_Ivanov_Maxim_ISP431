@@ -12,16 +12,19 @@
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
         
-            <Label Background="#F4E8D3" Height="50"></Label>
+        <Label Background="#F4E8D3" Height="50"></Label>
+        
+        <StackPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="«Мастер пол»" FontFamily="Segoe UI" FontSize="21"></TextBlock>
+        </StackPanel>
+        
         <StackPanel Grid.Row="0">
             <Image Height="40" Width="40" Source="/Res/Мастер пол.png"  HorizontalAlignment="Left" Margin="10,5" VerticalAlignment="Center"/>
         </StackPanel>
 
-        <StackPanel Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center">
-            <TextBlock Text="«Мастер пол»" FontFamily="Segoe UI" FontSize="21"></TextBlock>
-        </StackPanel>
+        
 
-        <Frame x:Name="NewFrame" NavigationUIVisibility="Hidden"></Frame>
+        <Frame x:Name="NewFrame" NavigationUIVisibility="Hidden" Grid.Row="1"></Frame>
         
     </Grid>
 </Window>

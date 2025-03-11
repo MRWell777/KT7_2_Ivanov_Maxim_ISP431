@@ -9,6 +9,32 @@
       Title="ListView">
 
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Button Grid.Row="1" 
+                Height="20" 
+                Width="100" 
+                HorizontalAlignment="Left" 
+                Margin="20,0" Content="Назад" 
+                Background="#67BA80"
+                FontFamily="Segoe UI"
+                x:Name="BackButton"
+                Click="Back"></Button>
+
+        <Button Grid.Row="1" 
+        Height="20" 
+        Width="100" 
+        HorizontalAlignment="Right" 
+        Margin="20,0" Content="Добавить" 
+        Background="#67BA80"
+        FontFamily="Segoe UI"
+        x:Name="AddButton"
+        Click="Add"></Button>
+
+
+
     </Grid>
 </Page>
